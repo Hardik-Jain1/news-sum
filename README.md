@@ -1,5 +1,16 @@
 # NewsSum: Neural Text Summarization with Fine-Tuned BART
 
+<div align="center">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" alt="Hugging Face" width="200"/>
+  
+  [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+  [![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-EE4C2C.svg)](https://pytorch.org/)
+  [![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.27.2-yellow.svg)](https://huggingface.co/transformers/)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  
+</div>
+
+
 An instructional Large Language Model (LLM) designed for automated news article summarization. This project leverages BART (Bidirectional and Auto-Regressive Transformers) fine-tuned on the CNN/DailyMail dataset, achieving a **15.85% performance improvement** over the baseline model as measured by ROUGE metrics.
 
 ## 🎯 Project Overview
